@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlineStore.WebApi.props" />
+</Project>

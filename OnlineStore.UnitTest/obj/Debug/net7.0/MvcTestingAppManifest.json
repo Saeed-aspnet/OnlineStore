@@ -1,0 +1,6 @@
+{
+  "OnlineStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ASUS\\Desktop\\OnlineStore\\OnlineStore.Application",
+  "OnlineStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ASUS\\Desktop\\OnlineStore\\OnlineStore.Domain",
+  "OnlineStore.Persistance, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ASUS\\Desktop\\OnlineStore\\OnlineStore.Persistance",
+  "OnlineStore.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ASUS\\Desktop\\OnlineStore\\OnlineStore.WebApi"
+}
